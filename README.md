@@ -278,3 +278,62 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | 27/03/2026 | Java | Fonctionnalité 5 |
 | 27/03/2026 | Symfony | Projet final opérationnel \+ documentation technique et utilisatrice. |
 
+## **Les equipes**
+
+**Groupe 1**
+| NOM | OPTION | GR |
+| :---: | :---: | :---- |
+| ABERKANE	Anaïs | SLAM | GR1 |
+| BAYA BAHA	Sara-Christel | SLAM | GR1 |
+| DEVINEAU	Thibault | SLAM | GR1 |
+| GARNIER	Julien | SISR | GR1 |
+
+**Groupe 2**
+| NOM | OPTION | GR |
+| :---: | :---: | :---- |
+| BEHAR	Sammy | SLAM | GR2 |
+| OUGHLIS	Mohamed | SLAM | GR2 |
+| THIRUVARUCHELVAN	Kirdigan | SISR | GR2 |
+
+**Groupe 3**
+| NOM | OPTION | GR |
+| :---: | :---: | :---- |
+| AMBROISE	Ihlane | SLAM | GR3 |
+| QIU	Jing Hui Terry | SLAM | GR3 |
+| CHIROUX	Victor | SISR | GR3 |
+
+**Groupe 4**
+| NOM | OPTION | GR |
+| :---: | :---: | :---- |
+| BENBRIKHO	Amine | SLAM | GR4 |
+| EMILE-GUILLOT	Anthony | SLAM | GR4 |
+| JAADAR	Anass | SISR | GR4 |
+
+**Groupe 5**
+| NOM | OPTION | GR |
+| :---: | :---: | :---- |
+| ANDOH	Claude | SLAM | GR5 |
+| BOUTIBA	Sami | SLAM | GR5 |
+| GLEIZES	Alexandre | SLAM | GR5 |
+| FUENTES	Ethan | SISR | GR5 |
+
+**Groupe 6**
+| NOM | OPTION | GR |
+| :---: | :---: | :---- |
+| BILL	Ruben | SLAM | GR6 |
+| BOUIBCHA	Ziyad | SLAM | GR6 |
+| AZIZ	Saem | SISR | GR6 |
+
+**Groupe 7**
+| NOM | OPTION | GR |
+| :---: | :---: | :---- |
+| ERDEM	Roni | SLAM | GR7 |
+| MASSE-REYES	Pablo | SLAM | GR7 |
+| DOAMENYO	Ismael | SISR | GR7 |
+
+**Groupe 8**
+| NOM | OPTION | GR |
+| :---: | :---: | :---- |
+| MINEIRO	Florent | SLAM | GR8 |
+| OURAGA	Yann | SLAM | GR8 |
+| SILLION	Thomas | SISR | GR8 |

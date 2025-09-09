@@ -284,7 +284,6 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | NOM | OPTION | GR |
 | :---: | :---: | :---- |
 | ABERKANE	Anaïs | SLAM | GR1 |
-| BAYA BAHA	Sara-Christel | SLAM | GR1 |
 | DEVINEAU	Thibault | SLAM | GR1 |
 | GARNIER	Julien | SISR | GR1 |
 
@@ -322,6 +321,7 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | :---: | :---: | :---- |
 | BILL	Ruben | SLAM | GR6 |
 | BOUIBCHA	Ziyad | SLAM | GR6 |
+| BAYA BAHA	Sara-Christel | SLAM | GR6 |
 | AZIZ	Saem | SISR | GR6 |
 
 **Groupe 7**

@@ -281,13 +281,16 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 ## **Les equipes**
 
 **Groupe 1**
-| NOM | OPTION | GR |
-| :---: | :---: | :---- |
-| ABERKANE	Anaïs | SLAM | GR1 |
+
+|        NOM        | OPTION | GR  |
+|:-----------------:| :---: |:----|
+|  ABERKANE	Anaïs   | SLAM | GR1 |
+|  BENBRIKHO Amine  | SLAM | GR1 |
 | DEVINEAU	Thibault | SLAM | GR1 |
-| GARNIER	Julien | SISR | GR1 |
+|  GARNIER	Julien   | SISR | GR1 |
 
 **Groupe 2**
+
 | NOM | OPTION | GR |
 | :---: | :---: | :---- |
 | BEHAR	Sammy | SLAM | GR2 |
@@ -295,20 +298,16 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | THIRUVARUCHELVAN	Kirdigan | SISR | GR2 |
 
 **Groupe 3**
-| NOM | OPTION | GR |
-| :---: | :---: | :---- |
+
+| NOM | OPTION | GR  |
+| :---: | :---: |:----|
+| EMILE-GUILLOT	Anthony | SLAM | GR3 |
 | AMBROISE	Ihlane | SLAM | GR3 |
 | QIU	Jing Hui Terry | SLAM | GR3 |
 | CHIROUX	Victor | SISR | GR3 |
 
 **Groupe 4**
-| NOM | OPTION | GR |
-| :---: | :---: | :---- |
-| BENBRIKHO	Amine | SLAM | GR4 |
-| EMILE-GUILLOT	Anthony | SLAM | GR4 |
-| JAADAR	Anass | SISR | GR4 |
 
-**Groupe 5**
 | NOM | OPTION | GR |
 | :---: | :---: | :---- |
 | ANDOH	Claude | SLAM | GR5 |
@@ -316,7 +315,8 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | GLEIZES	Alexandre | SLAM | GR5 |
 | FUENTES	Ethan | SISR | GR5 |
 
-**Groupe 6**
+**Groupe 5**
+
 | NOM | OPTION | GR |
 | :---: | :---: | :---- |
 | BILL	Ruben | SLAM | GR6 |
@@ -324,14 +324,16 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | BAYA BAHA	Sara-Christel | SLAM | GR6 |
 | AZIZ	Saem | SISR | GR6 |
 
-**Groupe 7**
+**Groupe 6**
+
 | NOM | OPTION | GR |
 | :---: | :---: | :---- |
 | ERDEM	Roni | SLAM | GR7 |
 | MASSE-REYES	Pablo | SLAM | GR7 |
 | DOAMENYO	Ismael | SISR | GR7 |
 
-**Groupe 8**
+**Groupe 7**
+
 | NOM | OPTION | GR |
 | :---: | :---: | :---- |
 | MINEIRO	Florent | SLAM | GR8 |

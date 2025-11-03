@@ -269,25 +269,23 @@ Chaque équipe devra rendre un seul projet opérationnel aux dates ci-dessous en
 
 Chaque « release » suivante devra prendre en compte les correctifs de la release précédente.
 
-| DEADLINE | APP | ROADMAP |
-| :---: | :---: | :---- |
+|  DEADLINE  | APP | ROADMAP |
+|:----------:| :---: | :---- |
 | 24/10/2025 | Java | Template \+ configuration du projet Base de données opérationnelle \+ jeu d’essais Fonctionnalité 1 et fonctionnalité 2 |
-| 24/10/2025 | Symfony | Template \+ configuration du projet Base de données opérationnelle \+ jeu d’essais Fonctionnalité 2 |
 | 19/12/2025 | Java | Fonctionnalité 3 |
-| 19/12/2025 | Symfony | Fonctionnalité 4 |
+| 19/12/2025 | Symfony | Template \+ configuration du projet Base de données opérationnelle \+ jeu d’essais Fonctionnalité 2 |
 | 27/03/2026 | Java | Fonctionnalité 5 |
 | 27/03/2026 | Symfony | Projet final opérationnel \+ documentation technique et utilisatrice. |
 
-## **Les equipes**
+## **Les equipes SLAM**
 
 **Groupe 1**
 
 |        NOM        | OPTION | GR  |
 |:-----------------:| :---: |:----|
 |  ABERKANE	Anaïs   | SLAM | GR1 |
-|  BENBRIKHO Amine  | SLAM | GR1 |
 | DEVINEAU	Thibault | SLAM | GR1 |
-|  GARNIER	Julien   | SISR | GR1 |
+
 
 **Groupe 2**
 
@@ -295,7 +293,7 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | :---: | :---: | :---- |
 | BEHAR	Sammy | SLAM | GR2 |
 | OUGHLIS	Mohamed | SLAM | GR2 |
-| THIRUVARUCHELVAN	Kirdigan | SISR | GR2 |
+
 
 **Groupe 3**
 
@@ -303,17 +301,14 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | :---: | :---: |:----|
 | EMILE-GUILLOT	Anthony | SLAM | GR3 |
 | AMBROISE	Ihlane | SLAM | GR3 |
-| QIU	Jing Hui Terry | SLAM | GR3 |
-| CHIROUX	Victor | SISR | GR3 |
 
 **Groupe 4**
 
-| NOM | OPTION | GR |
-| :---: | :---: | :---- |
-| ANDOH	Claude | SLAM | GR5 |
-| BOUTIBA	Sami | SLAM | GR5 |
-| GLEIZES	Alexandre | SLAM | GR5 |
-| FUENTES	Ethan | SISR | GR5 |
+| NOM | OPTION | GR  |
+| :---: | :---: |:----|
+| ANDOH	Claude | SLAM | GR4 |
+|  BENBRIKHO Amine  | SLAM | GR4 |
+
 
 **Groupe 5**
 
@@ -321,8 +316,7 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | :---: | :---: | :---- |
 | BILL	Ruben | SLAM | GR6 |
 | BOUIBCHA	Ziyad | SLAM | GR6 |
-| BAYA BAHA	Sara-Christel | SLAM | GR6 |
-| AZIZ	Saem | SISR | GR6 |
+
 
 **Groupe 6**
 
@@ -330,7 +324,7 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | :---: | :---: | :---- |
 | ERDEM	Roni | SLAM | GR7 |
 | MASSE-REYES	Pablo | SLAM | GR7 |
-| DOAMENYO	Ismael | SISR | GR7 |
+
 
 **Groupe 7**
 
@@ -338,4 +332,37 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | :---: | :---: | :---- |
 | MINEIRO	Florent | SLAM | GR8 |
 | OURAGA	Yann | SLAM | GR8 |
-| SILLION	Thomas | SISR | GR8 |
+
+**Groupe 8**
+
+| NOM | OPTION | GR  |
+| :---: | :---: |:----|
+| BOUTIBA	Sami | SLAM | GR8 |
+| GLEIZES	Alexandre | SLAM | GR8 |
+
+**Groupe 9**
+
+| NOM | OPTION | GR  |
+| :---: | :---: |:----|
+| QIU	Jing Hui Terry | SLAM | GR9 |
+| BAYA BAHA	Sara-Christel | SLAM | GR9 |
+
+## **Les equipes SISR**
+
+Voici les groupes GR1, GR2, GR3, GR4 
+
+| NOM | 
+| :---: |
+|  GARNIER	Julien   | 
+| FUENTES	Ethan | 
+| AZIZ	Saem | 
+
+
+Voici les groupes GR5, GR6, GR7, GR8 et GR9
+
+| NOM | 
+| :---: | 
+| SILLION	Thomas | 
+| THIRUVARUCHELVAN	Kirdigan | 
+| DOAMENYO	Ismael | 
+

@@ -307,31 +307,32 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | NOM | OPTION | GR  |
 | :---: | :---: |:----|
 | ANDOH	Claude | SLAM | GR4 |
-|  BENBRIKHO Amine  | SLAM | GR4 |
+| BOUIBCHA	Ziyad | SLAM | GR4 |
 
 
 **Groupe 5**
 
-| NOM | OPTION | GR |
-| :---: | :---: | :---- |
-| BILL	Ruben | SLAM | GR6 |
-| BOUIBCHA	Ziyad | SLAM | GR6 |
+| NOM | OPTION | GR  |
+| :---: | :---: |:----|
+| BILL	Ruben | SLAM | GR5 |
+|  BENBRIKHO Amine  | SLAM | GR5 |
+
 
 
 **Groupe 6**
 
-| NOM | OPTION | GR |
-| :---: | :---: | :---- |
-| ERDEM	Roni | SLAM | GR7 |
-| MASSE-REYES	Pablo | SLAM | GR7 |
+| NOM | OPTION | GR  |
+| :---: | :---: |:----|
+| ERDEM	Roni | SLAM | GR6 |
+| MASSE-REYES	Pablo | SLAM | GR6 |
 
 
 **Groupe 7**
 
-| NOM | OPTION | GR |
-| :---: | :---: | :---- |
-| MINEIRO	Florent | SLAM | GR8 |
-| OURAGA	Yann | SLAM | GR8 |
+| NOM | OPTION | GR  |
+| :---: | :---: |:----|
+| MINEIRO	Florent | SLAM | GR7 |
+| OURAGA	Yann | SLAM | GR7 |
 
 **Groupe 8**
 

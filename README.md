@@ -283,7 +283,7 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 
 |        NOM        | OPTION | GR  |
 |:-----------------:| :---: |:----|
-|  ABERKANE	Anaïs   | SLAM | GR1 |
+|  ABERKANE Anaïs   | SLAM | GR1 |
 | DEVINEAU	Thibault | SLAM | GR1 |
 
 
@@ -316,7 +316,6 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | :---: | :---: |:----|
 | BILL	Ruben | SLAM | GR5 |
 |  BENBRIKHO Amine  | SLAM | GR5 |
-
 
 
 **Groupe 6**

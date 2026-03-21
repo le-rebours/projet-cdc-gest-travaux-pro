@@ -257,7 +257,6 @@ Interface Web (Entrepreneur \+ Inspecteur) :
 
 **Base de données MySQL :**
 
-- Schéma normalisé en 3FN minimum
 - Index optimisés pour les requêtes fréquentes
 - Contraintes d'intégrité référentielle
 - Jeu de données de test réaliste
@@ -274,8 +273,8 @@ Chaque « release » suivante devra prendre en compte les correctifs de la rel
 | 24/10/2025 | Java | Template \+ configuration du projet Base de données opérationnelle \+ jeu d’essais Fonctionnalité 1 et fonctionnalité 2 |
 | 19/12/2025 | Java | Fonctionnalité 3 |
 | 19/12/2025 | Symfony | Template \+ configuration du projet Base de données opérationnelle \+ jeu d’essais Fonctionnalité 2 |
-| 27/03/2026 | Java | Fonctionnalité 5 |
-| 27/03/2026 | Symfony | Projet final opérationnel \+ documentation technique et utilisatrice. |
+| 30/03/2026 | Java | Fonctionnalité 5 |
+| 30/03/2026 | Symfony | Projet final opérationnel \+ documentation technique et utilisatrice. |
 
 ## **Les equipes SLAM**
 
